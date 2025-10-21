@@ -8,5 +8,5 @@ Olá! Me chamo Alysson e você?
 - 💬 Sou muito sociável hehehe então pode mandar um "Hello, world/Alysson que eu respondo.
 - 😄 Pronouns: ele/dele.
 
-https://github-readme-stats.vercel.app/api?username=codebyalysson&show_icons=true&theme=dark#gh-dark-mode-only
+https://github-readme-stats.vercel.app/api?username=codebyalysson&show_icons=true&bg_color=00000000
 https://github-readme-stats.vercel.app/api?username=codebyalysson&show_icons=true&theme=default#gh-light-mode-only
