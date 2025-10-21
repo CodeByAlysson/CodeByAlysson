@@ -18,10 +18,7 @@ Olá! Me chamo Alysson e você?
   <img width="12" />
 </div>
 
-###
 
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=codebyalysson&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
@@ -37,3 +34,10 @@ Olá! Me chamo Alysson e você?
 </picture>
 
 ###
+
+<div> 
+  <a href="https://instagram.com/ally_zao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "alysson.melo@cs.unifran.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alyssonrmelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
