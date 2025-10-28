@@ -12,7 +12,7 @@ Olá! Me chamo Alysson e você?
 
 ###
 <p align="center">
-<img width="600" height="600" alt="freepik-futuristic-gradient-cybercode-logo-20251028020527Wpez" src="https://github.com/user-attachments/assets/72fb8194-6b82-4bf9-8cad-29b678841085" />
+<img width="400" height="400" alt="freepik-futuristic-gradient-cybercode-logo-20251028020527Wpez" src="https://github.com/user-attachments/assets/72fb8194-6b82-4bf9-8cad-29b678841085" />
 </p>
 
 ###
