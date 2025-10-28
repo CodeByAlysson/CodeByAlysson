@@ -35,13 +35,6 @@ Olá! Me chamo Alysson e você?
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebyalysson/codebyalysson/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebyalysson/codebyalysson/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div> 
   <a href="https://instagram.com/ally_zao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
