@@ -45,3 +45,7 @@ Olá! Me chamo Alysson e você?
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/codebyalysson/codebyalysson/output/snake.svg" alt="Snake animation" />
+
+###
