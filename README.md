@@ -11,6 +11,11 @@ Olá! Me chamo Alysson e você?
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
+<p align="center">
+<img width="600" height="600" alt="freepik-futuristic-gradient-cybercode-logo-20251028020527Wpez" src="https://github.com/user-attachments/assets/72fb8194-6b82-4bf9-8cad-29b678841085" />
+</p>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
