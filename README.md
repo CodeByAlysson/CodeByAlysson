@@ -9,7 +9,7 @@ Me chamo Alysson Ribeiro, tenho 35 anos e sou Cirurgião-Dentista  🦷 há 10 a
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CodeByAlysson?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://github.com/CodeByAlysson?tab=repositories"
         />
     </a>
     <a href="https://github.com/CodeByAlysson">
