@@ -92,11 +92,3 @@ Me chamo Alysson Ribeiro, tenho 35 anos e sou Cirurgião-Dentista  🦷 há 10 a
   />
 
 </p>
-
-<picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeByAlysson/CodeByAlysson/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByAlysson/CodeByAlysson/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CodeByAlysson/CodeByAlysson/output/pacman-contribution-graph.svg">
-
-</picture>
