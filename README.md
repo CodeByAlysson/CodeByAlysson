@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Alysson Ribeiro
+# 👨🏻‍💻 Alysson Ribeiro 👨🏻‍💻
 
 # **`Estudante de Engenharia de Software`**
 
