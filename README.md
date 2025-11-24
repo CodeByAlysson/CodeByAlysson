@@ -23,7 +23,7 @@ Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista  🦷 há 10 anos. 
 
 ---
 
-### 💻 Linguagens e Tecnologias 
+### 🛠️ Linguagens e Tecnologias 
 
 <img 
     align="left" 
@@ -82,11 +82,13 @@ Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista  🦷 há 10 anos. 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=CodeByAlysson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
   />
+
   <img 
     alt="Linguagens Mais Usadas" 
     height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAlysson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
   />
+
 </p>
 
 <p align="center">
@@ -101,7 +103,7 @@ Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista  🦷 há 10 anos. 
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeByAlysson&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=CodeByAlysson&color=green&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
 </p>
 
 
