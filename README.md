@@ -24,7 +24,14 @@ Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista  🦷 há 10 anos. 
 ---
 
 ### 🛠️ Linguagens e Tecnologias 
-
+<img
+    align="left" 
+    alt="GITHUB"
+    title="GITHUB" 
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+/>
 <img 
     align="left" 
     alt="HTML"
