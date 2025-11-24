@@ -2,7 +2,7 @@
 
 # **`Estudante de Engenharia de Software`**
 
-Me chamo Alysson Ribeiro, tenho 35 anos e sou Cirurgião-Dentista  🦷 há 10 anos. Atualmente estou cursando Engenharia de Software 💻, pois desde muito novo sempre fui um entusiasta da tecnologia 🤖. 
+Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista  🦷 há 10 anos. Atualmente estou cursando Engenharia de Software 💻, pois desde muito novo sempre fui um entusiasta da tecnologia 🤖. 
 
 <p>
     <a href="https://github.com/CodeByAlysson?tab=repositories&sort=stargazers">
@@ -91,4 +91,24 @@ Me chamo Alysson Ribeiro, tenho 35 anos e sou Cirurgião-Dentista  🦷 há 10 a
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAlysson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
+
+<p align="center">
+  <img 
+    alt="GitHub Streak" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAlysson&theme=tokyonight&hide_border=true" 
+  />
+</p>
+
+
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeByAlysson&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
+</p>
+
+
+<p align="center">
+⭐ "A Perseverança constrói o que o talento apenas imagina." ⭐
 </p>
