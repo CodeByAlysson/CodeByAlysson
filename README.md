@@ -1,19 +1,19 @@
 <div align="center">
-  
-# 👨🏻‍💻 Alysson Ribeiro 👨🏻‍💻
-
+  <h1>👨🏻‍💻 Alysson Ribeiro 👨🏻‍💻</h1>
 </div>
 
 <div align="center">
-
-# **`⭐⭐⭐Estudante de Engenharia de Software⭐⭐⭐`**
-
+  <h2><strong>⭐⭐⭐ Estudante de Engenharia de Software ⭐⭐⭐</strong></h2>
 </div>
 
-<h2> 
-    Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista  🦷 há 10 anos. Atualmente estou cursando Engenharia de Software 💻, pois desde muito novo sempre fui um entusiasta da tecnologia 🤖. 
+<div align="center">
+  <p>
+    Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista 🦷 há 10 anos.
+    Atualmente estou cursando Engenharia de Software 💻,
+    pois desde muito novo sempre fui um entusiasta da tecnologia 🤖.
+  </p>
+</div>
 
-</h2>
 
 <p>
     <a href="https://github.com/CodeByAlysson?tab=repositories&sort=stargazers">
