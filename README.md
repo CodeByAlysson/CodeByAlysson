@@ -10,7 +10,10 @@
 
 </div>
 
-<h3> Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista  🦷 há 10 anos. Atualmente estou cursando Engenharia de Software 💻, pois desde muito novo sempre fui um entusiasta da tecnologia 🤖. </h3>
+<h2> 
+    Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista  🦷 há 10 anos. Atualmente estou cursando Engenharia de Software 💻, pois desde muito novo sempre fui um entusiasta da tecnologia 🤖. 
+
+</h2>
 
 <p>
     <a href="https://github.com/CodeByAlysson?tab=repositories&sort=stargazers">
