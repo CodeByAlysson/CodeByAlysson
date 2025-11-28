@@ -1,142 +1,95 @@
 <div align="center">
   <h1>👨🏻‍💻 Alysson Ribeiro 👨🏻‍💻</h1>
+  <h2>Software Developer in progress | Estudante de Engenharia de Software 🚀</h2>
 </div>
 
-<div align="center">
-  <h2><strong>⭐⭐⭐ Estudante de Engenharia de Software ⭐⭐⭐</strong></h2>
-</div>
+---
 
 <div align="center">
   <p>
-    Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista 🦷 há 10 anos.
-    Atualmente estou cursando Engenharia de Software 💻,
-    pois desde muito novo sempre fui um entusiasta da tecnologia 🤖.
+    Cirurgião-Dentista 🦷 com 10 anos de experiência e transição para o Desenvolvimento de Software 💻.  
+    Apaixonado por tecnologia, inovação e por construir soluções que facilitem a vida das pessoas.  
   </p>
 </div>
 
+---
 
-<p>
-    <a href="https://github.com/CodeByAlysson?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/CodeByAlysson?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/CodeByAlysson">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/CodeByAlysson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<div>
+  <a href="https://github.com/CodeByAlysson?tab=repositories&sort=stargazers">
+    <img
+      alt="Estrelas"
+      title="Total de Estrelas no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/stars/CodeByAlysson?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+  </a>
+
+  <a href="https://github.com/CodeByAlysson?tab=followers">
+    <img
+      alt="Seguidores"
+      title="Me siga no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/CodeByAlysson?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</div>
+
+
 
 ---
 
-###  🛠️ Linguagens e Tecnologias 
+### 🛠️ Tecnologias e Ferramentas
+<div>
+  <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="HTML5" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</div>
+
+---
+
+### 📌 Objetivos atuais
+- Aprofundar habilidades em Desenvolvimento Web;
+- Contribuir em projetos com impacto real;
+- Entrar no mercado de tecnologia através de estágio remoto.
+
+---
+
+### 📚 Estudos Atuais
+- Engenharia de Software 🎓
+- Projetos práticos envolvendo Front-end + Lógica de Programação
+
+---
+
+### 📈 Estatísticas no GitHub
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByAlysson&show_icons=true&theme=tokyonight" />
+  <img height="180em" alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAlysson&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAlysson&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📬 Contato
+<div>
+  <a href="mailto:alyssonmelo.ti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/alyssonrmelo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/ally_zao/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+
+---
 
 <img
-    align="left" 
-    alt="GITHUB"
-    title="GITHUB" 
-    width="40px" 
-    style="padding-right: 20px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="40px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="40px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img 
-    alt="Estatísticas GitHub" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CodeByAlysson&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true" 
-  />
-    <img 
-    alt="Linguagens Mais Usadas" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAlysson&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    alt="GitHub Streak" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAlysson&theme=tokyonight&hide_border=true" 
-  />
-</p>
-
-
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CodeByAlysson&color=green&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
-</p>
-
-
-<p align="center">
-⭐ "A Perseverança constrói o que o talento apenas imagina." ⭐
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-  srcset="https://raw.githubusercontent.com/CodeByAlysson/CodeByAlysson/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeByAlysson/CodeByAlysson/output/pacman-contribution-graph.svg">
-
-  <img
    alt="pacman contribution graph" 
    src="https://raw.githubusercontent.com/CodeByAlysson/CodeByAlysson/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
+<div align="center">
+  <em>⭐ "A Perseverança constrói o que o talento apenas imagina." ⭐
+</div>
