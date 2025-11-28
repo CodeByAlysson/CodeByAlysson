@@ -1,6 +1,14 @@
+<div align="center">
+  
 # 👨🏻‍💻 Alysson Ribeiro 👨🏻‍💻
 
+</div>
+
+<div align="center">
+
 # **`Estudante de Engenharia de Software`**
+
+</div>
 
 Me chamo Alysson Ribeiro, tenho 35 anos, Cirurgião-Dentista  🦷 há 10 anos. Atualmente estou cursando Engenharia de Software 💻, pois desde muito novo sempre fui um entusiasta da tecnologia 🤖. 
 
