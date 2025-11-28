@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### <h2> 🛠️ Tecnologias e Ferramentas </h2>
 <div>
   <img align="center" alt="GitHub" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="HTML5" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -47,20 +47,20 @@
 
 ---
 
-### 📌 Objetivos atuais
+### <h2> 📌 Objetivos atuais </h2>
 - Aprofundar habilidades em Desenvolvimento Web;
 - Contribuir em projetos com impacto real;
 - Entrar no mercado de tecnologia através de estágio remoto.
 
 ---
 
-### 📚 Estudos Atuais
+### <h2> 📚 Estudos Atuais </h2>
 - Engenharia de Software 🎓
 - Projetos práticos envolvendo Front-end + Lógica de Programação
 
 ---
 
-### 📈 Estatísticas no GitHub
+### <h2> 📈 Estatísticas no GitHub </h2>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByAlysson&show_icons=true&theme=tokyonight" />
   <img height="180em" alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAlysson&layout=compact&theme=tokyonight" />
@@ -69,7 +69,7 @@
 
 ---
 
-### 📬 Contato
+### <h2> 📬 Contato </h2>
 <div style="display: flex; gap: 10px;">
   <a href="mailto:alyssonmelo.ti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
