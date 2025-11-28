@@ -6,10 +6,10 @@
 ---
 
 <div align="center">
-  <p>
+  <p><h3>
     Cirurgião-Dentista 🦷 com 10 anos de experiência e transição para o Desenvolvimento de Software 💻.  
     Apaixonado por tecnologia, inovação e por construir soluções que facilitem a vida das pessoas.  
-  </p>
+  <h3></p>
 </div>
 
 ---
