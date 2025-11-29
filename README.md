@@ -67,6 +67,11 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAlysson&theme=tokyonight&hide_border=true" />
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CodeByAlysson&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
+</p>
+
+
 ---
 
 ### <h2> 📬 Contato </h2>
