@@ -61,11 +61,15 @@
 ---
 
 ### <h2> 📈 Estatísticas no GitHub </h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CodeByAlysson&show_icons=true&theme=tokyonight" />
-  <img height="180em" alt="Linguagens Mais Usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAlysson&layout=compact&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAlysson&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeByAlysson&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeByAlysson&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeByAlysson&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeByAlysson&color=blue&style=flat-square&label=Visualizações+do+Perfil" alt="Profile views" />
